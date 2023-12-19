@@ -1,0 +1,28 @@
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.exe
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.dll
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.pdb
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.dll
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\refint\FunctionSystemCompleteness.dll
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.pdb
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\ref\FunctionSystemCompleteness.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.exe
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.deps.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.runtimeconfig.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\bin\Debug\net6.0\FunctionSystemCompleteness.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.csproj.CoreCompileInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\refint\FunctionSystemCompleteness.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\FunctionSystemCompleteness.genruntimeconfig.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\FunctionSystemCompleteness\FunctionSystemCompleteness\obj\Debug\net6.0\ref\FunctionSystemCompleteness.dll

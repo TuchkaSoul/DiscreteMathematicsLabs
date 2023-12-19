@@ -1,0 +1,28 @@
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\bin\Debug\net6.0\MatrixProperties.exe
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\bin\Debug\net6.0\MatrixProperties.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\bin\Debug\net6.0\MatrixProperties.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\bin\Debug\net6.0\MatrixProperties.dll
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\bin\Debug\net6.0\MatrixProperties.pdb
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\obj\Debug\net6.0\MatrixProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\obj\Debug\net6.0\MatrixProperties.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\obj\Debug\net6.0\MatrixProperties.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\obj\Debug\net6.0\MatrixProperties.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\obj\Debug\net6.0\MatrixProperties.dll
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\obj\Debug\net6.0\refint\MatrixProperties.dll
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\obj\Debug\net6.0\MatrixProperties.pdb
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\obj\Debug\net6.0\MatrixProperties.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\MatrixProperties\obj\Debug\net6.0\ref\MatrixProperties.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\bin\Debug\net6.0\MatrixProperties.exe
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\bin\Debug\net6.0\MatrixProperties.deps.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\bin\Debug\net6.0\MatrixProperties.runtimeconfig.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\bin\Debug\net6.0\MatrixProperties.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\bin\Debug\net6.0\MatrixProperties.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\obj\Debug\net6.0\MatrixProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\obj\Debug\net6.0\MatrixProperties.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\obj\Debug\net6.0\MatrixProperties.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\obj\Debug\net6.0\MatrixProperties.csproj.CoreCompileInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\obj\Debug\net6.0\MatrixProperties.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\obj\Debug\net6.0\refint\MatrixProperties.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\obj\Debug\net6.0\MatrixProperties.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\obj\Debug\net6.0\MatrixProperties.genruntimeconfig.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\MatrixProperties\obj\Debug\net6.0\ref\MatrixProperties.dll
