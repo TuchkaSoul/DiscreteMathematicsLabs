@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QuineMinimisation/1.0.0": {
+        "runtime": {
+          "QuineMinimisation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuineMinimisation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

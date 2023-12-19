@@ -1,0 +1,14 @@
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\bin\Release\net6.0\MultisetCalculator.exe
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\bin\Release\net6.0\MultisetCalculator.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\bin\Release\net6.0\MultisetCalculator.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\bin\Release\net6.0\MultisetCalculator.dll
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\bin\Release\net6.0\MultisetCalculator.pdb
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\obj\Release\net6.0\MultisetCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\obj\Release\net6.0\MultisetCalculator.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\obj\Release\net6.0\MultisetCalculator.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\obj\Release\net6.0\MultisetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\obj\Release\net6.0\MultisetCalculator.dll
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\obj\Release\net6.0\refint\MultisetCalculator.dll
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\obj\Release\net6.0\MultisetCalculator.pdb
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\obj\Release\net6.0\MultisetCalculator.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\education\C# Лабораторные работы по ООП\MultisetCalculator\MultisetCalculator\obj\Release\net6.0\ref\MultisetCalculator.dll

@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\bin\Debug\net8.0\QuineMinimisation.exe
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\bin\Debug\net8.0\QuineMinimisation.deps.json
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\bin\Debug\net8.0\QuineMinimisation.runtimeconfig.json
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\bin\Debug\net8.0\QuineMinimisation.dll
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\bin\Debug\net8.0\QuineMinimisation.pdb
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\obj\Debug\net8.0\QuineMinimisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\obj\Debug\net8.0\QuineMinimisation.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\obj\Debug\net8.0\QuineMinimisation.AssemblyInfo.cs
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\obj\Debug\net8.0\QuineMinimisation.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\obj\Debug\net8.0\QuineMinimisation.dll
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\obj\Debug\net8.0\refint\QuineMinimisation.dll
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\obj\Debug\net8.0\QuineMinimisation.pdb
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\obj\Debug\net8.0\QuineMinimisation.genruntimeconfig.cache
+C:\Users\anton\source\repos\QuineMinimisation\QuineMinimisation\obj\Debug\net8.0\ref\QuineMinimisation.dll
