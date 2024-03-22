@@ -1,0 +1,14 @@
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\bin\Debug\net6.0\AppGraphTheory.exe
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\bin\Debug\net6.0\AppGraphTheory.deps.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\bin\Debug\net6.0\AppGraphTheory.runtimeconfig.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\bin\Debug\net6.0\AppGraphTheory.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\bin\Debug\net6.0\AppGraphTheory.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\obj\Debug\net6.0\AppGraphTheory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\obj\Debug\net6.0\AppGraphTheory.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\obj\Debug\net6.0\AppGraphTheory.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\obj\Debug\net6.0\AppGraphTheory.csproj.CoreCompileInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\obj\Debug\net6.0\AppGraphTheory.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\obj\Debug\net6.0\refint\AppGraphTheory.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\obj\Debug\net6.0\AppGraphTheory.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\obj\Debug\net6.0\AppGraphTheory.genruntimeconfig.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\AppGraphTheory\AppGraphTheory\obj\Debug\net6.0\ref\AppGraphTheory.dll

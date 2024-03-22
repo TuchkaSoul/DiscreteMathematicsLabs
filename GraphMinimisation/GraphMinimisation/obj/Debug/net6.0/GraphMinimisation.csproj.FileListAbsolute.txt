@@ -1,0 +1,14 @@
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\bin\Debug\net6.0\GraphMinimisation.exe
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\bin\Debug\net6.0\GraphMinimisation.deps.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\bin\Debug\net6.0\GraphMinimisation.runtimeconfig.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\bin\Debug\net6.0\GraphMinimisation.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\bin\Debug\net6.0\GraphMinimisation.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\obj\Debug\net6.0\GraphMinimisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\obj\Debug\net6.0\GraphMinimisation.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\obj\Debug\net6.0\GraphMinimisation.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\obj\Debug\net6.0\GraphMinimisation.csproj.CoreCompileInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\obj\Debug\net6.0\GraphMinimisation.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\obj\Debug\net6.0\refint\GraphMinimisation.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\obj\Debug\net6.0\GraphMinimisation.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\obj\Debug\net6.0\GraphMinimisation.genruntimeconfig.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\DiscreteMathematics\GraphMinimisation\GraphMinimisation\obj\Debug\net6.0\ref\GraphMinimisation.dll
