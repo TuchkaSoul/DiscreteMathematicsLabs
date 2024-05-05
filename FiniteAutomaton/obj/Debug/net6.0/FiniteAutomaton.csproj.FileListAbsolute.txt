@@ -1,0 +1,14 @@
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\bin\Debug\net6.0\FiniteAutomaton.exe
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\bin\Debug\net6.0\FiniteAutomaton.deps.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\bin\Debug\net6.0\FiniteAutomaton.runtimeconfig.json
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\bin\Debug\net6.0\FiniteAutomaton.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\bin\Debug\net6.0\FiniteAutomaton.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\obj\Debug\net6.0\FiniteAutomaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\obj\Debug\net6.0\FiniteAutomaton.AssemblyInfoInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\obj\Debug\net6.0\FiniteAutomaton.AssemblyInfo.cs
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\obj\Debug\net6.0\FiniteAutomaton.csproj.CoreCompileInputs.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\obj\Debug\net6.0\FiniteAutomaton.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\obj\Debug\net6.0\refint\FiniteAutomaton.dll
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\obj\Debug\net6.0\FiniteAutomaton.pdb
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\obj\Debug\net6.0\FiniteAutomaton.genruntimeconfig.cache
+C:\Users\anton\education\C# Лабораторные работы по ООП\FiniteAutomaton\obj\Debug\net6.0\ref\FiniteAutomaton.dll
